@@ -1,0 +1,8 @@
+html {
+  box-sizing: border-box; }
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  min-height: 100vh;
+  background-color: teal; }
+
